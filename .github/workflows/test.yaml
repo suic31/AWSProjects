@@ -12,6 +12,5 @@ jobs:
         steps:
             - name: Will get latest code
               uses: actions/checkout@v2
-            - name: linux command will run
-              run: 
-                echo "Your name"
+            - name: Printing my Name
+              run:  echo "Justin"
