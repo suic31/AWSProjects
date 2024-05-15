@@ -7,6 +7,12 @@ on:
             [closed]
 jobs:
     testing:
+        name: 🎉 Testing
+        runs-on: ubuntu-latest
+        steps:
+            - name: Testing phase
+              uses: echo "justin"
+    deploy:
         name: 🎉 Deploy
         runs-on: ubuntu-latest
         steps:
