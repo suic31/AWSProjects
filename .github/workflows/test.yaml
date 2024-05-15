@@ -2,7 +2,7 @@ name: This will run first Yaml Pipeline
 on:
     pull_request:
         branches:
-            - masteer
+            - master
         types:
             [closed]
 jobs:
@@ -16,7 +16,8 @@ jobs:
         name: 🎉 Deploy
         runs-on: ubuntu-latest
         steps:
-            - uses: actions/checkout@v2
-            - name: Deployment phase
-            - uses: echo "Hello"
-              
+            - name: Will get latest code
+              uses: actions/checkout@v2
+            - name: linux command will run
+              run: 
+                echo "Your name"
