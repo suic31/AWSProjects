@@ -10,14 +10,13 @@ jobs:
         name: 🎉 Testing
         runs-on: ubuntu-latest
         steps:
+            - uses: actions/checkout@v2
             - name: Testing phase
-              uses: echo "justin"
+              run: echo "justin"
     deploy:
         name: 🎉 Deploy
         runs-on: ubuntu-latest
         steps:
-            - name: Will get latest code
-              uses: actions/checkout@v2
+            - uses: actions/checkout@v2
             - name: linux command will run
-              run: 
-                echo "Your name"
+              run: echo "Your name"
