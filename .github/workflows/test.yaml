@@ -7,11 +7,16 @@ on:
             [closed]
 jobs:
     testing:
+        name: 🎉 Testing
+        runs-on: ubuntu-latest
+        steps:
+            - name: Testing phase
+              uses: echo "justin"
+    deploy:
         name: 🎉 Deploy
         runs-on: ubuntu-latest
         steps:
-            - name: Will get latest code
-              uses: actions/checkout@v2
-            - name: linux command will run
-              run: 
-                echo "Your name"
+            - uses: actions/checkout@v2
+            - name: Deployment phase
+            - uses: echo "Hello"
+              
