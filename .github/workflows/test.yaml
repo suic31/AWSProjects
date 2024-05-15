@@ -12,7 +12,7 @@ jobs:
         steps:
             - uses: actions/checkout@v2
             - name: Testing phase
-              run: echo "justin"
+              echo "justin"
     deploy:
         name: 🎉 Deploy
         runs-on: ubuntu-latest
