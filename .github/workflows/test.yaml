@@ -2,7 +2,7 @@ name: This will run first Yaml Pipeline
 on:
     pull_request:
         branches:
-            - main
+            - masteer
         types:
             [closed]
 jobs:
