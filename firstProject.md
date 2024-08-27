@@ -1,4 +1,4 @@
-Hosting a Static Website in S3 Bucket
+[*Hosting a Static Website in S3 Bucket*]
 ======================================
 
 Step 1: Access Amazon S3 from your AWS Management Console.
