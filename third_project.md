@@ -42,4 +42,5 @@ You can enter more FallBackIntent messages under the Message and variations and 
 ![Screenshot from 2024-08-27 15-48-08](https://github.com/user-attachments/assets/579c4a45-a812-4f28-ad0c-1056da0a3913)
 
 ## Cleanup the Resources, delete the resources and all things which was created
-![Uploading Screenshot from 2024-08-27 15-51-27.png…]()
+![Screenshot from 2024-08-27 15-51-27](https://github.com/user-attachments/assets/b09bd90e-7b03-40a2-b408-bc732b8bc808)
+
