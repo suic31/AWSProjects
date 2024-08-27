@@ -1,4 +1,5 @@
 *[Visualizing Netflix Data using Amazon Quicksight]*
+====================================================
 
 Step 1: Downloading the Dataset of Netflix
 - I have a huge data of csv file and a json document
