@@ -478,5 +478,3 @@ Kindly find the below sample screenshots of the project:
 ![Screenshot from 2024-09-04 15-52-42](https://github.com/user-attachments/assets/0ba415c2-b7f5-43bd-8749-e6a92cca0a13)
 
 ![Screenshot from 2024-09-04 15-52-51](https://github.com/user-attachments/assets/3bea17c2-cd4c-4c34-bcda-0574a39b681d)
-
-![Screenshot from 2024-09-04 16-16-01](https://github.com/user-attachments/assets/9885f648-2bc8-458d-adf3-7db1eaa7ef38)
